@@ -3,8 +3,7 @@
 Retorna datas da semana no intervalo de 1 a 7 dentro de 1mês.
 > **Note:** Lembrando que também, é considerado semana, os meses que possui  3 dias ou 2 dias no final.
 
-
-## Saida:
+## Exemplo de saída:
  * Semana: 1 ['2023-01-01', '2023-01-02', '2023-01-03', '2023-01-04', '2023-01-05', '2023-01-06', '2023-01-07']
  * Semana: 2 ['2023-01-08', '2023-01-09', '2023-01-10', '2023-01-11', '2023-01-12', '2023-01-13', '2023-01-14']
  * Semana: 3 ['2023-01-15', '2023-01-16', '2023-01-17', '2023-01-18', '2023-01-19', '2023-01-20', '2023-01-21']
